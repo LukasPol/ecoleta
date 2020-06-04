@@ -1,4 +1,7 @@
 vscode/
 *.zip
 
-assests/wallpapers
+public/assests/wallpapers
+
+node_modules
+package-lock.json
